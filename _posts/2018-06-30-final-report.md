@@ -32,6 +32,7 @@ tags: 博客
 ### 个人GIT统计报告
 文档部分：
 ![commit_summary](https://github.com/QAZASDEDC/photo/raw/master/commit_summary.png)
+
 商家端部分：
 ![commit_summary2](https://github.com/QAZASDEDC/photo/raw/master/commit_summary2.png)
 
