@@ -15,15 +15,15 @@ tags: 博客
 | - | - | - |
 | **Planning** | **计划** | **8** |
 | -　Estimate | -估计这个任务需要多少时间  | 8 |
-| **Development** | **开发** | **89** |
+| **Development** | **开发** | **86** |
 | -　Analysis | -需求分析（包括学习新技术） | 16 |
-| -　Design Spec | -生成设计文档 | 10 |
+| -　Design Spec | -生成设计文档 | 14 |
 | -　Design Review | -设计复审（和同事审核设计文档） | 3 |
-| -　Coding Standard | -代码规范（为目前的开发制定合适的规范） | 5 |
+| -　Coding Standard | -代码规范（为目前的开发制定合适的规范） | 8 |
 | -　Design | -具体设计 | 10 |
 | -　Coding| -具体编码 | 22 |
 | -　Code Review | -代码复审 | 8 |
-| -　Test | 测试（自我测试，修改代码，提交修改） | 15 |
+| -　Test | 测试（自我测试，修改代码，提交修改） | 5 |
 | **Report** | **报告** | **7** |
 | -　Test Report | 测试报告 | 2 |
 | -　Size Measurement| 计算工作量 | 2 |
